@@ -1,0 +1,47 @@
+.container{
+    max-width: 1120px;
+    margin: 3rem;
+    margin-left: 175px;
+    padding: 0 2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    nav{
+        ul{
+            display: flex;
+            
+            li{
+                margin-left: 2.5rem;    
+            }
+        }
+
+    }
+
+    
+    button{
+        width: 172px;
+        height: 37px;
+        color: var(--text-color);
+        background-color: transparent;
+        border: 1px solid var(--button);
+        border-radius: 6px;
+
+        font-weight: 700;
+        letter-spacing: 0.02rem;
+        text-transform: uppercase;
+        
+        display: flex;
+        align-items: center;
+        justify-content: center;
+     
+    }
+
+    .blur{
+        width: 300px;
+        height: 300px;
+        display: block;
+        background-color:#996DFF;
+    }
+}

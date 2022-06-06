@@ -1,0 +1,50 @@
+.container{
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 0 2rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .title{
+        padding: 0 2rem;
+        text-align: center;
+        font-size: 2.3rem;    
+        h1 + h1 {
+            text-shadow: -1px -1px 0 var(--button), 1px -1px 0 var(--button), -1px 1px 0 var(--button), 1px 1px 0 var(--button);
+            color:var(--background);
+        }
+    }
+
+
+
+    .blur{
+        width: 200px;
+        height: 200px;
+        display: block;
+        background-color:#996DFF;
+        
+        filter: blur(150px);
+        position: absolute;
+
+        &.right{
+            top: 0;
+            right: 0;
+        }
+
+        &.left{
+            bottom: 0;
+            left: 0;
+        }
+    }
+
+
+}
+
+// @media screen and (max-width: 768px){
+//     .container{
+
+//     }
+// }
+
