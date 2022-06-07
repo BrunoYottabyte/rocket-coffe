@@ -10,7 +10,7 @@
     --button: #8257e5;
     --border: #29292E;
     --border-menu-mobile: #A8A8B3;
-    --text-color-menu-mobile: #E1E1E6;
+    --text-color-menu-mobile: #e1e1e6aa;
 }
 
 body, html{
@@ -36,4 +36,39 @@ ul{
 
 a{
     text-decoration: none;
+}
+
+
+.overlay{
+    position: relative;
+    top: -5px;
+    z-index: -999;
+    transform-origin:top right;
+}
+
+
+
+.overlay::before{
+    content: "";
+    width: 30vw;
+    height: 30vw;
+    border-radius: max(100vw, 100vw);
+    background-color: var(--background);
+    position: fixed;
+    top: 6rem;
+    right: 0;
+    transform: scale(0);
+    transition: transform 1.25s cubic-bezier(0.175, 0.885, 0.32, 1.175);
+}
+
+.overlay.active::before{
+    transform: scale(12);
+}
+
+.ul_mobile{
+    transition: all 0.5s  ;
+}
+
+.overlay.active + .ul_mobile {
+    opacity: 1;
 }
