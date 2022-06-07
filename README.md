@@ -1,5 +1,7 @@
 ## Telas da aplicação
-![image](https://user-images.githubusercontent.com/70710358/172296533-796bafe6-9b4c-4d72-90df-5307bf8cb0a9.png)
+![image](https://user-images.githubusercontent.com/70710358/172296646-c89eb1b0-0159-4911-ad5c-5314deb673ae.png)
+![image](https://user-images.githubusercontent.com/70710358/172296693-4114c34d-2dd6-4648-bb90-b02494ccaf1d.png)
+
 First, run the development server:
 
 ```bash
