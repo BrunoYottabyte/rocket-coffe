@@ -10,7 +10,7 @@
 </div>
 
 ## Animação adicional ao desafio
-   ![27a58cc8-180d-4c24-ba92-c6c03d118435](https://user-images.githubusercontent.com/70710358/172298955-b6e810ae-22a3-42db-9ccb-9ca5d3a71d24.gif)
+![e3d80394-c403-40b8-ac33-e97fb9d8e69a (1)](https://user-images.githubusercontent.com/70710358/172341236-337883ac-308d-4c1e-b445-24079a0d951d.gif)
  
 ## F i g m a da aplicação esperada
 
