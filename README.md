@@ -11,6 +11,12 @@
 
 ## Animação adicional ao desafio
    ![27a58cc8-180d-4c24-ba92-c6c03d118435](https://user-images.githubusercontent.com/70710358/172298955-b6e810ae-22a3-42db-9ccb-9ca5d3a71d24.gif)
+ 
+## F i g m a da aplicação esperada
+
+```
+https://www.figma.com/file/qTQWbEvVeEG5IVmaU8vMzP/RocketCoffee-(Copy)?node-id=317%3A228
+```
 
 ## Tecnologias utilizadas
 
