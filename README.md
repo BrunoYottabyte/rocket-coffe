@@ -15,7 +15,7 @@
 ## F i g m a da aplicação esperada
 
 ```
-https://www.figma.com/file/qTQWbEvVeEG5IVmaU8vMzP/RocketCoffee-(Copy)?node-id=317%3A228
+https://www.figma.com/file/tFoovGllUttTebdUTDVdT8/RocketCoffee/duplicate
 ```
 
 ## Tecnologias utilizadas
